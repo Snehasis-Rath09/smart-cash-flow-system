@@ -1,0 +1,5 @@
+com\cashflow\repository\TransactionRepository.class
+com\cashflow\SmartCashFlowApplication.class
+com\cashflow\entity\Transaction.class
+com\cashflow\service\TransactionService.class
+com\cashflow\controller\TransactionController.class
